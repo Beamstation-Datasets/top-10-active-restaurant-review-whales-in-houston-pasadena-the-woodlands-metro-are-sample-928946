@@ -9,9 +9,9 @@
 | Dataset ID | `928946` |
 | Location | Houston-Pasadena-The Woodlands, TX |
 | Category | Restaurants |
-| Full dataset size | 436 records |
-| Free sample size | 27 records (6.19%) |
-| Last export | 2026-04-07T19:19:35.868190+00:00 |
+| Full dataset size | 274 records |
+| Free sample size | 27 records (9.85%) |
+| Last export | 2026-04-15T00:26:46.151839+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-10-active-restaurant-review-whales-in-houston-pasadena-the-woodlands-metro-are-sample-928946/releases/download/sample-latest/beamstation_928946_restaurants-us-houstonpasadenathewoodlandstx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
