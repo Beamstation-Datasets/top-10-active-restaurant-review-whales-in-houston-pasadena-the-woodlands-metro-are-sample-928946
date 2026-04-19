@@ -6,17 +6,17 @@
   "config_category": "sales",
   "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 10% of their local market for proven foot traffic and review volume within the last 30 days and a market scope of 10km. \n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
   "config_name": "Top 10% Active Restaurant Review Whales in Houston-Pasadena-The Woodlands Metro Area, TX, US",
-  "export_job_id": "a0fab191-ccc5-4876-9579-b76b5716e8db",
+  "export_job_id": "be7019ec-0625-4ecf-994a-784626c9f381",
   "github_org": "Beamstation-Datasets",
   "id_short": 928946,
   "location_name": "Houston-Pasadena-The Woodlands, TX",
   "location_type": "metro",
   "repo_name": "top-10-active-restaurant-review-whales-in-houston-pasadena-the-woodlands-metro-are-sample-928946",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/928946/beamstation_928946_restaurants-us-houstonpasadenathewoodlandstx_SAMPLE_DIST.csv",
-  "sample_pct": 6.19,
+  "sample_pct": 9.85,
   "sample_records": 27,
   "sample_sha256": "6d8e8e1a544a02b60e26484f0a6e9d161eca4d128d7c6b8295bf56835d75c53e",
   "sample_size_bytes": 117429,
-  "total_records": 436,
-  "updated_at": "2026-04-07T19:19:35.868190+00:00"
+  "total_records": 274,
+  "updated_at": "2026-04-15T00:26:46.151839+00:00"
 }
